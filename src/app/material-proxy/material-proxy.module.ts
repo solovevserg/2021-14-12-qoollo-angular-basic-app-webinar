@@ -4,12 +4,18 @@ import { MatButtonModule } from '@angular/material/button';
 import { MatIconModule } from '@angular/material/icon';
 import { MatSidenavModule } from '@angular/material/sidenav'
 import { MatCardModule } from '@angular/material/card';
+import { MatSlideToggleModule } from '@angular/material/slide-toggle';
+import { MatFormFieldModule } from '@angular/material/form-field';
+import { MatInputModule } from '@angular/material/input';
 
 const exports = [
   MatButtonModule,
   MatCardModule,
   MatIconModule,
-  MatSidenavModule
+  MatSidenavModule,
+  MatSlideToggleModule,
+  MatFormFieldModule,
+  MatInputModule,
 ];
 
 @NgModule({

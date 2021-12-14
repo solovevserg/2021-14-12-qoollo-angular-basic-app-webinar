@@ -1,4 +1,4 @@
 export interface UsersSearchParams {
   query: string;
-  verified: boolean;
+  onlyVerified: boolean;
 }

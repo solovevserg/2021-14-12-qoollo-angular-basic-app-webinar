@@ -1,1 +1,13 @@
-<p>users-search-params works!</p>
+<div [formGroup]="search.form" class="wrapper">
+  <mat-form-field>
+    <input
+      formControlName="query"
+      matInput
+      type="text"
+      placeholder="Search by name..."
+    />
+  </mat-form-field>
+  <mat-slide-toggle formControlName="onlyVerified"
+    >Only verified
+  </mat-slide-toggle>
+</div>

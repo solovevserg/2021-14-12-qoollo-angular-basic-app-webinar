@@ -1,0 +1,6 @@
+:host {
+  display: flex;
+  flex-direction: column;
+  // TODO: Вынести все константы из CSS в styles.scss на глобальный уровень (например, через CSS custom properties)
+  gap: 15px;
+}

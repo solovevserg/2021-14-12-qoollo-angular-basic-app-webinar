@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { UsersSearchParamsService } from '../../services/users-search-params.service';
 
 @Component({
   selector: 'qoollo-users-search-params',
@@ -7,7 +8,9 @@ import { Component, OnInit } from '@angular/core';
 })
 export class UsersSearchParamsComponent implements OnInit {
 
-  constructor() { }
+  constructor(
+    public readonly search: UsersSearchParamsService
+  ) { }
 
   ngOnInit(): void {
   }

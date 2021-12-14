@@ -7,6 +7,9 @@ import { UsersListComponent } from './components/users-list/users-list.component
 import { UserCardComponent } from './components/user-card/user-card.component';
 import { UsersSearchParamsComponent } from './components/users-search-params/users-search-params.component';
 import { UserDetailsComponent } from './components/user-details/user-details.component';
+import { CoreModule } from '../core/core.module';
+import { MaterialProxyModule } from '../material-proxy/material-proxy.module';
+import { ReactiveFormsModule } from '@angular/forms';
 
 
 @NgModule({
@@ -15,11 +18,14 @@ import { UserDetailsComponent } from './components/user-details/user-details.com
     UsersListComponent,
     UserCardComponent,
     UsersSearchParamsComponent,
-    UserDetailsComponent
+    UserDetailsComponent,
   ],
   imports: [
     CommonModule,
-    UsersRoutingModule
+    UsersRoutingModule,
+    CoreModule,
+    MaterialProxyModule,
+    ReactiveFormsModule,
   ]
 })
 export class UsersModule { }

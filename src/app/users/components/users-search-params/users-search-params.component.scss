@@ -1,0 +1,12 @@
+:host {
+  display: block;
+  // TODO: вынести стили на глобальный уровень
+  padding: 15px 0;
+
+  .wrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 15px
+  }
+}
+
