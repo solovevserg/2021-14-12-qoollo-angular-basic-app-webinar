@@ -1,6 +1,6 @@
 # 2021-12-14 Практикум по Ангуляр
 
-Этот репозиторий содержит материалы к вебинару по Angular](https://drive.google.com/file/d/1DsWcoqKf0E6ZOYhz4zJjWgMWivZpwXcm/view) от [Соловьева Сергея](http://sergsol.com/).
+Этот репозиторий содержит материалы к [вебинару по Angular](https://drive.google.com/file/d/1DsWcoqKf0E6ZOYhz4zJjWgMWivZpwXcm/view) от [Соловьева Сергея](http://sergsol.com/).
 Для лучшего понимания предварительно стоит изучить [материалы лекции по TS/RxJS/Angular](https://docs.google.com/presentation/d/19vLBbqguHKvquEDZYMTC5Cf-sZvf8GtY/edit#slide=id.p29)
 
 # Задача
