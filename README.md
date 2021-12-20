@@ -1,6 +1,7 @@
 # 2021-12-14 Практикум по Ангуляр
 
-Этот репозиторий содержит материалы к вебинару по Angular от Соловьева Сергея.
+Этот репозиторий содержит материалы к вебинару по Angular](https://drive.google.com/file/d/1DsWcoqKf0E6ZOYhz4zJjWgMWivZpwXcm/view) от [Соловьева Сергея](http://sergsol.com/).
+Для лучшего понимания предварительно стоит изучить [материалы лекции по TS/RxJS/Angular](https://docs.google.com/presentation/d/19vLBbqguHKvquEDZYMTC5Cf-sZvf8GtY/edit#slide=id.p29)
 
 # Задача
 
@@ -141,3 +142,6 @@ ng g s core/services/viewport
 Тут можно поиграться с кодом Ангуляра (и не только) в песочнице прям в браузере
 
 [The online code editor for web apps. Powered by Visual Studio Code. - StackBlitz](https://stackblitz.com/)
+
+Презентация к лекции
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRydOIRAxzTRuFBKX-gYKl6ZhXUZrn_8EvMWmdz3EUOCgPbppR3MeERFRQu3i_qvg/embed?start=false&loop=false&delayms=60000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
