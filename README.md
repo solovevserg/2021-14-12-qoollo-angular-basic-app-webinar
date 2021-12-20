@@ -142,6 +142,3 @@ ng g s core/services/viewport
 Тут можно поиграться с кодом Ангуляра (и не только) в песочнице прям в браузере
 
 [The online code editor for web apps. Powered by Visual Studio Code. - StackBlitz](https://stackblitz.com/)
-
-Презентация к лекции
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRydOIRAxzTRuFBKX-gYKl6ZhXUZrn_8EvMWmdz3EUOCgPbppR3MeERFRQu3i_qvg/embed?start=false&loop=false&delayms=60000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
